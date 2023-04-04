@@ -1,6 +1,6 @@
 ### Hola👋, Mi nombre es Seba
 
-Estoy trabajando en mi portada!! Estoy un poco ocupado con los estudios asi que perdona mi tardanza 😄
+Estoy trabajando en mi portada!! Estoy un poco ocupado con los estudios asi que perdona mi tardanza por favor😄
 
 <!--
 **sebamarambio96/sebamarambio96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
