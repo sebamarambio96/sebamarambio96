@@ -5,7 +5,7 @@
 
 - 🔭Actualmente estoy trabajando como Desarrollador Full Stack en **Energiza Virtual**
 
-- 🌱 Estoy aprendiendo **Typescript, mongoDB y Python**
+- 🌱 Estoy aprendiendo **Typescript, PHP y Python**
 
 - 💬 Puedes preguntarme **de lo que sea e intentaré ayudarte**
 
