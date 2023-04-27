@@ -9,7 +9,7 @@
 
 - 💬 Puedes preguntarme **de lo que sea e intentaré ayudarte**
 
-- 📫 Cómo ponerse en contacto conmigo **s.marambiosandoval@gmail.com**
+- 📫 Cómo ponerse en contacto conmigo **sebams.dev@gmail.com**
 
 - ⚡ Fun fact **Soy adicto a los cursos 🤣**
 
