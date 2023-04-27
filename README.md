@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sebamarambio96&label=Profile%20views&color=0e75b6&style=flat" alt="sebamarambio96" /> </p>
 
-- 🔭Actualmente estoy trabajando como Desarrollador Full Stack **Energiza Virtual**
+- 🔭Actualmente estoy trabajando como Desarrollador Full Stack en **Energiza Virtual**
 
 - 🌱 Estoy aprendiendo **Typescript, mongoDB y Python**
 
