@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Soy Sebastián</h1>
-<h3 align="center">Soy un amante de la tecnología y me obsesiona aprender cosas nuevas. Estoy trabajando para obtener mi primera oportunidad en el mundo TI.</h3>
+<h3 align="center">Soy un amante de la tecnología y me obsesiona aprender cosas nuevas.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sebamarambio96&label=Profile%20views&color=0e75b6&style=flat" alt="sebamarambio96" /> </p>
 
