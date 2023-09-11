@@ -1,6 +1,6 @@
 <h1 align="center">Hola 👋, Soy Sebastián</h1>
 <h3 align="center">Soy un amante de la tecnología y me obsesiona aprender cosas nuevas.</h3>
-<h5 align="center">( por razones profesionales muchos de mis repositorios son privados, lo siento 😔 )</h5>
+<h5 align="center">( Por razones profesionales muchos de mis repositorios son privados, lo siento 😔 )</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sebamarambio96&label=Profile%20views&color=0e75b6&style=flat" alt="sebamarambio96" /> </p>
 
