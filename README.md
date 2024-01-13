@@ -18,7 +18,12 @@
 
 ### Proyectos en GitHub:
 
-- <a href="https://github.com/sebamarambio96/productManager" target="blank">Proyecto Backend Eccomerce Express/MongoDb/Passport/Swuagger</a>
+- [<span style="color: #f4511e">Proyecto Backend Eccomerce Express/MongoDb/Passport/Swagger</span>](https://github.com/sebamarambio96/productManager)
+  - Herramientas utilizadas:
+    - <span style="color: #0082c8">Express</span>
+    - <span style="color: #4db546">MongoDB</span>
+    - <span style="color: #306998">Passport</span>
+    - <span style="color: #85ea2d">Swagger</span>
 - [Proyecto 2](Enlace al repositorio del Proyecto 2)
 - [Proyecto 3](Enlace al repositorio del Proyecto 3)
   ...
