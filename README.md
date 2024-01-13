@@ -18,8 +18,8 @@
 
 ### Proyectos en GitHub:
 
-- [<span style="color: #f4511e">Proyecto Backend Js</span>](https://github.com/sebamarambio96/productManager) **Herramientas:** Express/MongoDB/Passport/Swagger
-- [<span style="color: #f4511e">Proyecto React Eccomerce</span>](https://github.com/sebamarambio96/TecnoPuzzle) **Herramientas:** React/Firebase/ReactBootstrap
+- [<span style="color: #f4511e">Proyecto Backend Js</span>](https://github.com/sebamarambio96/productManager) => Express/MongoDB/Passport/Swagger
+- [<span style="color: #f4511e">Proyecto React Eccomerce</span>](https://github.com/sebamarambio96/TecnoPuzzle) => React/Firebase/ReactBootstrap
 
 <h3 align="left">Conecta conmigo:</h3>
 <p align="left">
