@@ -8,13 +8,20 @@
   
 - 👨‍🎓 Actualmente estudio Ingeniería en Informática con Mención en Analítica Avanzada
 
-- 🌱 Estoy aprendiendo **NextJs**
+- 🌱 Estoy aprendiendo **Java/Springboot**
 
 - 💬 Puedes preguntarme **de lo que sea e intentaré ayudarte**
 
 - 📫 Cómo ponerse en contacto conmigo **sebams.dev@gmail.com**
 
 - ⚡ Fun fact **Soy adicto a los cursos 🤣**
+
+### Proyectos en GitHub:
+
+- [Proyecto 1](Enlace al repositorio del Proyecto 1)
+- [Proyecto 2](Enlace al repositorio del Proyecto 2)
+- [Proyecto 3](Enlace al repositorio del Proyecto 3)
+  ...
 
 <h3 align="left">Conecta conmigo:</h3>
 <p align="left">
