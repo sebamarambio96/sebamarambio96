@@ -20,10 +20,10 @@
 
 - [<span style="color: #f4511e">Proyecto Backend Eccomerce Express/MongoDb/Passport/Swagger</span>](https://github.com/sebamarambio96/productManager)
   - Herramientas utilizadas:
-    - <span style="color: #0082c8">Express</span>
-    - <span style="color: #4db546">MongoDB</span>
-    - <span style="color: #306998">Passport</span>
-    - <span style="color: #85ea2d">Swagger</span>
+    - <span style="color: #0082c8">Express</span> [![#0082c8](https://placehold.co/15x15/0082c8/0082c8.png)](https://expressjs.com/)
+    - <span style="color: #4db546">MongoDB</span> [![#4db546](https://placehold.co/15x15/4db546/4db546.png)](https://www.mongodb.com/)
+    - <span style="color: #306998">Passport</span> [![#306998](https://placehold.co/15x15/306998/306998.png)](http://www.passportjs.org/)
+    - <span style="color: #85ea2d">Swagger</span> [![#85ea2d](https://placehold.co/15x15/85ea2d/85ea2d.png)](https://swagger.io/)
 - [Proyecto 2](Enlace al repositorio del Proyecto 2)
 - [Proyecto 3](Enlace al repositorio del Proyecto 3)
   ...
