@@ -1,29 +1,29 @@
-<h1 align="center">Hola 👋, Soy Sebastián</h1>
-<h3 align="center">Soy un amante de la tecnología y me obsesiona aprender cosas nuevas.</h3>
-<h5 align="center">( Por razones profesionales muchos de mis repositorios son privados, lo siento 😔 )</h5>
+<h1 align="center">Hello 👋, I'm Sebastián</h1>
+<h3 align="center">I'm a technology enthusiast and I'm obsessed with learning new things.</h3>
+<h5 align="center">( For professional reasons, many of my repositories are private, sorry 😔 )</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sebamarambio96&label=Profile%20views&color=0e75b6&style=flat" alt="sebamarambio96" /> </p>
 
-- 🔭 Actualmente estoy trabajando como Desarrollador Backend en **Energiza Virtual**
+- 🔭 I'm currently working as a Backend Developer at **Energiza Virtual**
   
-- 👨‍🎓 Actualmente estudio Ingeniería en Informática con Mención en Analítica Avanzada
+- 👨‍🎓 I'm currently studying Computer Engineering with a focus on Advanced Analytics
 
-- 🌱 Estoy aprendiendo **Java/Springboot**
+- 🌱 I'm learning **Java/Springboot**
 
-- 💬 Puedes preguntarme **de lo que sea e intentaré ayudarte**
+- 💬 You can ask me **anything, and I'll try to help you**
 
-- 📫 Cómo ponerse en contacto conmigo **sebams.dev@gmail.com**
+- 📫 How to reach me **sebams.dev@gmail.com**
 
-- ⚡ Fun fact **Soy adicto a los cursos 🤣**
+- ⚡ Fun fact **I'm addicted to taking online courses 🤣**
 
-### Proyectos en GitHub:
+### Proyects in GitHub:
 
-- [<span style="color: #f4511e">Servidor Backend Js</span>](https://github.com/sebamarambio96/productManager) 🔧 Express / MongoDB / Passport / Swagger
+- [<span style="color: #f4511e">Server Backend Js</span>](https://github.com/sebamarambio96/productManager) 🔧 Express / MongoDB / Passport / Swagger
 - [<span style="color: #f4511e">TecnoPuzzle React Eccomerce</span>](https://github.com/sebamarambio96/TecnoPuzzle) 🔧 React / Firebase / ReactBootstrap
-- [<span style="color: #f4511e">Proyecto Ciencia y Fitness</span>](https://github.com/sebamarambio96/ciencia_y_fitness) 🔧 Html / Css / Bootstrap / Sass / JS
-- [<span style="color: #f4511e">La Nube Dorada</span>](https://github.com/sebamarambio96/la_nube_dorada) 🔧 Html / Css / Bootstrap / Sass
+- [<span style="color: #f4511e">Proyect "Ciencia y Fitness"</span>](https://github.com/sebamarambio96/ciencia_y_fitness) 🔧 Html / Css / Bootstrap / Sass / JS
+- [<span style="color: #f4511e">"La Nube Dorada"</span>](https://github.com/sebamarambio96/la_nube_dorada) 🔧 Html / Css / Bootstrap / Sass
 
-<h3 align="left">Conecta conmigo:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sebamarambio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sebamarambio" height="30" width="40" /></a>
 <a href="https://instagram.com/seba.ms" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="seba.ms" height="30" width="40" /></a>
