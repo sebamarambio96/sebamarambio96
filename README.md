@@ -18,8 +18,10 @@
 
 ### Proyectos en GitHub:
 
-- [<span style="color: #f4511e">Proyecto Backend Js</span>](https://github.com/sebamarambio96/productManager) => Express/MongoDB/Passport/Swagger
-- [<span style="color: #f4511e">Proyecto React Eccomerce</span>](https://github.com/sebamarambio96/TecnoPuzzle) => React/Firebase/ReactBootstrap
+- [<span style="color: #f4511e">Servidor Backend Js</span>](https://github.com/sebamarambio96/productManager) 🔧 Express / MongoDB / Passport / Swagger
+- [<span style="color: #f4511e">TecnoPuzzle React Eccomerce</span>](https://github.com/sebamarambio96/TecnoPuzzle) 🔧 React / Firebase / ReactBootstrap
+- [<span style="color: #f4511e">Proyecto Ciencia y Fitness</span>](https://github.com/sebamarambio96/ciencia_y_fitness) 🔧 Html / Css / Bootstrap / Sass / JS
+- [<span style="color: #f4511e">La Nube Dorada</span>](https://github.com/sebamarambio96/la_nube_dorada) 🔧 Html / Css / Bootstrap / Sass
 
 <h3 align="left">Conecta conmigo:</h3>
 <p align="left">
