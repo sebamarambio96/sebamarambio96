@@ -22,7 +22,7 @@
 - [<span style="color: #f4511e">TecnoPuzzle React Eccomerce</span>](https://github.com/sebamarambio96/TecnoPuzzle) 🔧 React / Firebase / ReactBootstrap
 - [<span style="color: #f4511e">Proyect "Ciencia y Fitness"</span>](https://github.com/sebamarambio96/ciencia_y_fitness) 🔧 Html / Css / Bootstrap / Sass / JS
 - [<span style="color: #f4511e">"La Nube Dorada"</span>](https://github.com/sebamarambio96/la_nube_dorada) 🔧 Html / Css / Bootstrap / Sass
-- [<span style="color: #f4511e">Project Django</span>](https://github.com/sebamarambio96/proyecto1python-coder) 🔧 Html / Css / Python / Django / Bootstrap / SQLite
+- [<span style="color: #f4511e">Project Django News</span>](https://github.com/sebamarambio96/proyecto1python-coder) 🔧 Html / Css / Python / Django / Bootstrap / SQLite
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
