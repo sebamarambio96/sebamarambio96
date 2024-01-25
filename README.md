@@ -16,7 +16,7 @@
 
 - ⚡ Fun fact **I'm addicted to taking online courses 🤣**
 
-### Portfolio (Under construction):
+### Portfolio:
 
 - 🔧🤓 [<span style="color: #f4511e">Click here !</span>](https://sebams-dev.netlify.app/)
 
