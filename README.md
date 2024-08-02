@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sebamarambio96&label=Profile%20views&color=0e75b6&style=flat" alt="sebamarambio96" /> </p>
 
-- 🔭 I'm currently working as a Backend Developer at **Energiza Virtual**
+- 🔭 I'm currently working as a Full Stack Developer at **rFlex**
   
 - 👨‍🎓 I'm currently studying Computer Engineering with a focus on Advanced Analytics
 
